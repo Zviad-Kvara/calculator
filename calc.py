@@ -1,3 +1,5 @@
+# Decorations added by front-end developers
+print("I am sexiest function ever\n")
 
 #_______ original code ____________
 x = int(input("X: "))
