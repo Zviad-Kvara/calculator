@@ -12,3 +12,6 @@ print(f"Sub: {x - y}")
 
 # added multiplication by back_end developers
 print(f"Mult: {x * y}")
+
+# added divide operation
+print(f"Div: {x / y}")
