@@ -12,3 +12,8 @@ print(f"Sub: {x - y}")
 
 # added multiplication by back_end developers
 print(f"Mult: {x * y}")
+if y == 0:
+	print("Can't devide")
+else:
+	print(f"Div: {x / y}")
+
