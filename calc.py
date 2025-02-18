@@ -18,4 +18,3 @@ if y == 0:
 	print("Can't devide")
 else:
 	print(f"Div: {x / y}")
-
